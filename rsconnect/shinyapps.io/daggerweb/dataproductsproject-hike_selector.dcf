@@ -1,0 +1,10 @@
+name: dataproductsproject-hike_selector
+title: DataProductsProject-Hike Selector
+account: daggerweb
+server: shinyapps.io
+appId: 163015
+bundleId: 743074
+url: https://daggerweb.shinyapps.io/dataproductsproject-hike_selector/
+when: 1489276929.25729
+asMultiple: FALSE
+asStatic: FALSE
